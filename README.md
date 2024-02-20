@@ -1,2 +1,2 @@
-# Пример вёрстки страницы
+# Пример лендинга
 https://evstepa.github.io/Lagoona/
